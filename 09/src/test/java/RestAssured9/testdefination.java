@@ -51,5 +51,4 @@ public class testdefination {
 		String statusLine = response.getStatusLine();
 		Assert.assertEquals("HTTP/1.1 200 OK", statusLine);	
 	}
-
 }
